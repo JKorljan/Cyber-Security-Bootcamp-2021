@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![](Images/Virtual_Network.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the [Ansible](Cyber-Security-Bootcamp-2021/Ansible/) file may be used to install only certain pieces of it.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the [Ansible](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible) file may be used to install only certain pieces of it.
 
 This document contains the following details:
 - Description of the Topology
@@ -87,6 +87,6 @@ In order to use the playbook, you will need to have an Ansible control node alre
 SSH into the control node and follow the steps below:
 - 
 - Copy the [Playbooks](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible/Playbooks) file to the Ansible file.
-- Update the [hosts](Cyber-Security-Bootcamp-2021/Project1-ELKStack/Ansible/hosts) file to change the web and elk servers IP addresses
+- Update the [hosts](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible/hosts) file to change the web and elk servers IP addresses
 - Run the playbooks using command ansible-playbook Elk-playbook.yml
 - Navigate to http://{yourIP}:5601/app/kibana/ in your web browser to check that the installation worked as expected
