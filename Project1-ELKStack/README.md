@@ -86,7 +86,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - 
-- Copy the [Playbook](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible/Playbooks) file to your Ansible file
-- Update the [hosts](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible/hosts) file to change the web and elk servers IP addresses
+- Copy the [Playbook](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/blob/main/Project1-ELKStack/Ansible/Playbooks/Elk-playbook.yml) file to your ansible file
+- Update the [hosts](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project1-ELKStack/Ansible/hosts) file to change/add the elk servers IP addresses
 - Run the playbook using command `ansible-playbook`; example `ansible-playbook Elk-playbook.yml`
 - Navigate to `http://{yourIP}:5601/app/kibana/` in your web browser to check that the installation worked as expected
