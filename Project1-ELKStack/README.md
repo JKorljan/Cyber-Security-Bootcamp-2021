@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 
 The machines on the internal network are not exposed to the public Internet. 
 
-Only the jump box machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses: 20.211.105.164
+Only the jump box machine can accept connections from the Internet, which is controlled via. Network Security Group to only accept connections from one outside IP.
 
 Machines within the network can only be accessed by each other.
 The jump box can access the ELK server, and the DVWA servers send information to it.
