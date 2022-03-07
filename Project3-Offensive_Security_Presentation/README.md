@@ -1,7 +1,13 @@
 ## Purpose of Project
-In this project, we worked in groups of four completing the below reports individually while making emphasis on using teamwork and communication. 
+
+The aim of this project was to test and attack a netowrk to define its flaws and use this information mitigate risks of outside attacks.
+
+We setup and tested alerts on the blue team side of the network using Kibana, we attacked after this from a red team perspective using Kali Linux finding exploitations and ways to eliminate being detected by the automatic alerts of Kibana, and then we analysed network traffic using Wireshark and produced reports with our findings.
+
+We worked in groups of four completing the reports individually while making emphasis on using teamwork and communication to successfully deliver the project.
 
 To finalise the project in our groups we got to choose to present defensive security, offensive security, or network security presentations. My group decided on the offensive security presentation which is available below.
+
 
 ### Presentation
 
