@@ -1,2 +1,2 @@
-##Purpose of Project
+# Purpose of Project
 In this project, we worked in groups of four playing as the blue team and red team, and performing network analysis on a vulnerbale network. When all reports had beem complete for the blue team, red team and network analysis, in our groups we got to choose to present the defensive security, offensive security, or network security presentations. My group decided on the offensive security presentation, and it can be found here.
