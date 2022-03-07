@@ -84,6 +84,7 @@ These Beats allow us to collect the following information from each machine:
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
+
 SSH into the control node and follow the steps below:
 - 
 - Copy the [Playbook](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/blob/main/Project1-ELKStack/Ansible/Playbooks/Elk-playbook.yml) file to your ansible file
