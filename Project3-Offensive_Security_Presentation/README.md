@@ -1,6 +1,6 @@
 ## Purpose of Project
 In this project, we worked in groups of four completing the below reports individually while making emphasis on using teamwork and communication. 
-- [Blue team report](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project3-Offensive_Security_Presentation/Reports/Blue\/Team.docx)
+- [Blue team report](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project3-Offensive_Security_Presentation/Reports/Blue_Team.docx)
 - [Red team report](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project3-Offensive_Security_Presentation/Reports/Red Team.docx)
 - [Network analysis report](https://github.com/JKorljan/Cyber-Security-Bootcamp-2021/tree/main/Project3-Offensive_Security_Presentation/Reports/Network Analysis.docx)
 
