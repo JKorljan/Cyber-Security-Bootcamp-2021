@@ -82,7 +82,7 @@ These Beats allow us to collect the following information from each machine:
 - Metricbeat: Metricbeat monitors system resources and services. This can be used to track network in and out bytes and CPU and memory usages.
 
 ### Using the Playbook
-In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
+In order to use the playbook and install ELK, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
 SSH into the control node and follow the steps below:
 - 
