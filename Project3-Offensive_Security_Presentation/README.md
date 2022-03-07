@@ -8,6 +8,7 @@ We worked in groups of four completing the reports individually while making emp
 
 To finalise the project in our groups we got to choose to present defensive security, offensive security, or network security presentations. My group decided on the offensive security presentation which is available below.
 
+Our group was composed of, Craig Spencer, Jake Korljan, Nicola Drummy, & Oliver Boughey.
 
 ### Presentation
 
@@ -18,8 +19,6 @@ To finalise the project in our groups we got to choose to present defensive secu
 - [Blue team report](https://docs.google.com/document/d/1EFaBPcKuLAOCWqEI9j0y6HeeP22XXMXB/edit?usp=sharing&ouid=104845909239001051316&rtpof=true&sd=true)
 - [Red team report](https://docs.google.com/document/d/1lWZMM5nO9uppVYXTECxNc9VfIeQWEGYi/edit?usp=sharing&ouid=104845909239001051316&rtpof=true&sd=true)
 - [Network analysis report](https://docs.google.com/document/d/1ZomMEVd7aLYIcq7Cs7GY61KFmWu8fQAlx5Z0tPE0Lcs/edit?usp=sharing)
-
-Our group was composed of, Craig Spencer, Jake Korljan, Nicola Drummy, & Oliver Boughey.
 
 ### Objectives
 
