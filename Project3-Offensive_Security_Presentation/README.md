@@ -6,13 +6,13 @@ In this project, we worked in groups of four completing the below reports indivi
 
 To finalise the project in our groups we got to choose to present defensive security, offensive security, or network security presentations. My group decided on the offensive security presentation, and it can be found here.
 Our group was composed of, Craig Spencer, Jake Korljan, Nicola Drummy, & Oliver Boughey.
-Our objectives were;
+
+### Objectives
 
 Alert and Attacking Target
 
 - Configure alerts in Kibana
 - Attack a machine on the network.
-- Capture the flag on the victim machine.
 
 Wireshark analysis
 
