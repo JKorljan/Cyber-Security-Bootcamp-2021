@@ -1,6 +1,6 @@
 ## Purpose of Project
 
-The aim of this project was to test and attack a netowrk to define its flaws and use this information mitigate risks of outside attacks.
+The aim of this project was to test and attack a network to define its flaws and use this information mitigate risks of outside attacks.
 
 We setup and tested alerts on the blue team side of the network using Kibana, we attacked after this from a red team perspective using Kali Linux finding exploitations and ways to eliminate being detected by the automatic alerts of Kibana, and then we analysed network traffic using Wireshark and produced reports with our findings.
 
